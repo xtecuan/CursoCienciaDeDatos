@@ -3,6 +3,6 @@
 # No está ordenado
 # No permite duplicados 
 
-thisset = {"apple", "banana" "cherry"}
+thisset = {"apple", "banana","cherry"}
 print(thisset)
 print(type(thisset))
